@@ -1,0 +1,3 @@
+neptune-cli
+albumentations==0.1.1
+pretrainedmodels==0.7.0
